@@ -1,2 +1,4 @@
 nginx
 jeessy/ddns-go
+adolfintel/speedtest
+olbat/cupsd
